@@ -1,6 +1,6 @@
 ![Logo](/Icon.png)
 
-# SystemInfoKit ![] (https://img.shields.io/travis/jBot-42/JSystemInfoKit.svg)
+# SystemInfoKit ![] (https://img.shields.io/travis/jrw42/JSystemInfoKit.svg)
 A comprehensive, well documented, and well tested system information framework for Cocoa on OS X by the creator of the most complete source on the SMC. 
 
 ## How To Use
@@ -27,11 +27,10 @@ Issues and pull requests are welcome!
 
 ## Licensing
 
+Copyright © 2015 @jrw42.
 SystemInfoKit, SMCWrapper, and the original SMC tool are released under the GNU GPL v2.0 License.
 
-### Copyright
 
-SystemInfoKit copyright © 2015 JRW (@jBot-42)
 
 SMCWrapper copyright © 2014 Fergus Morrow (@FergusInLondon)
 
