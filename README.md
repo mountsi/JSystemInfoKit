@@ -28,8 +28,8 @@ Issues and pull requests are welcome!
 ## Licensing
 
 Copyright © 2015 @jrw42.
-SystemInfoKit, SMCWrapper, and the original SMC tool are released under the GNU GPL v2.0 License.
 
+SystemInfoKit, SMCWrapper, and Apple SMC tool are released under the GNU GPL v2.0 License.
 
 
 SMCWrapper copyright © 2014 Fergus Morrow (@FergusInLondon)
