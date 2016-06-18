@@ -5,7 +5,7 @@ A comprehensive, well documented, and well tested system information framework f
 
 ## How To Use
 
-Visit SystemInfoKit's website here for complete documentation: http://jbot-42.github.io/systeminfokit.html
+Visit SystemInfoKit's website here for complete documentation: http://jrw01.github.io/systeminfokit.html
 
 ## Features
 
